@@ -10,4 +10,4 @@
 # Features
 
 1. React Funtional Components
-2. React Query..
+2. # React Query
