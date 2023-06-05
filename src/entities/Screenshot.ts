@@ -1,5 +1,4 @@
-import { Heading } from "@chakra-ui/react";
-export interface Screenshot {
+export default interface Screenshot {
   id: number;
   image: string;
   width: number;
