@@ -8,7 +8,7 @@ import {
 } from "react-icons/fa";
 import { SiNintendo } from "react-icons/si";
 import { BsGlobe } from "react-icons/bs";
-import { Platform } from "../hooks/usePlatforms";
+import { Platform } from "../entities/Platform";
 import { HStack, Icon, Spinner } from "@chakra-ui/react";
 import { IconType } from "react-icons";
 import usePlatforms from "../hooks/usePlatforms";
